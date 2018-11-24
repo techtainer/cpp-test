@@ -1,0 +1,13 @@
+﻿  Source.cpp
+d:\work\visual\04-3-2\source.cpp(51): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+d:\work\visual\04-3-2\source.cpp(52): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+d:\work\visual\04-3-2\source.cpp(53): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+d:\work\visual\04-3-2\source.cpp(77): error C2664: 'NameCard::NameCard(const NameCard &)': cannot convert argument 1 from 'const char [4]' to 'char *'
+  d:\work\visual\04-3-2\source.cpp(77): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+d:\work\visual\04-3-2\source.cpp(78): error C2664: 'NameCard::NameCard(const NameCard &)': cannot convert argument 1 from 'const char [5]' to 'char *'
+  d:\work\visual\04-3-2\source.cpp(78): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+d:\work\visual\04-3-2\source.cpp(79): error C2664: 'NameCard::NameCard(const NameCard &)': cannot convert argument 1 from 'const char [4]' to 'char *'
+  d:\work\visual\04-3-2\source.cpp(79): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)

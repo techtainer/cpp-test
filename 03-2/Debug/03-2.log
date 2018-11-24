@@ -1,0 +1,8 @@
+﻿  Source.cpp
+d:\work\visual\03-2\source.cpp(10): warning C4305: 'argument': truncation from 'double' to 'const float'
+d:\work\visual\03-2\source.cpp(11): warning C4305: 'argument': truncation from 'double' to 'const float'
+d:\work\visual\03-2\source.cpp(12): warning C4305: 'argument': truncation from 'double' to 'const float'
+d:\work\visual\03-2\source.cpp(13): warning C4305: 'argument': truncation from 'double' to 'const float'
+  calculator.cpp
+  Generating Code...
+  03-2.vcxproj -> D:\Work\visual\Debug\03-2.exe
