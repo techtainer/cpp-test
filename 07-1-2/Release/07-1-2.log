@@ -1,0 +1,15 @@
+﻿  Source.cpp
+d:\work\visual\07-1-2\source.cpp(13): warning C4267: 'initializing': conversion from 'size_t' to 'char', possible loss of data
+d:\work\visual\07-1-2\source.cpp(14): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+d:\work\visual\07-1-2\source.cpp(39): warning C4267: 'initializing': conversion from 'size_t' to 'char', possible loss of data
+d:\work\visual\07-1-2\source.cpp(40): warning C4267: 'initializing': conversion from 'size_t' to 'char', possible loss of data
+d:\work\visual\07-1-2\source.cpp(41): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+d:\work\visual\07-1-2\source.cpp(42): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+d:\work\visual\07-1-2\source.cpp(62): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Generating code
+  All 17 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  07-1-2.vcxproj -> D:\Work\visual\Release\07-1-2.exe
